@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 ## [firest10](https://forest10.github.io)
+## 大胜是个大傻子
 ## For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 You can use the [editor on GitHub](https://github.com/maochiyu/maochiyu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
