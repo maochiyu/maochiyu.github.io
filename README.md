@@ -14,7 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 
-![可爱的猫咪](https://th.bing.com/th/id/OIP.B17VTfBtdDuZyAT3v96yXgHaKV?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3)
+![可爱的猫咪](https://th.bing.com/th/id/R.b1c69021dd4736c2b7dcc67361140573?rik=%2b0Rv0jI%2fDF6jDg&riu=http%3a%2f%2fwww.hifi.com.cn%2fuploadfile%2f2020%2f0221%2f20200221014041368.jpg&ehk=iN4j9R4fP5MicAba98ZZT7PV%2fO0I%2bATWoVLLlh1ViPA%3d&risl=&pid=ImgRaw&r=0)
 
 ![示例图片](https://i.imgur.com/9UjJZ7P.png "网络图片")
 
